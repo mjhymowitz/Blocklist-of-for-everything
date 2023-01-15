@@ -1,7 +1,7 @@
 # list of every adblock/host list known
 
-Feel free to suject other list if you want.
-I'll be honest, I'm not sure if they're all formated corretly, AdGuard Home excepted the urls so I assumed they worked
+Feel free to suggest other list if you want.
+I'm not sure if they're all formated corretly, AdGuard Home excepted the urls so I assumed they work.
 
 | Name | Raw Url |
 |:---:|:---:|
